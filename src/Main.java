@@ -9,4 +9,6 @@ public class Main {
     vetkaPC-posle-merge-komit-1
     vetkaPC-posle-merge-komit-2
     vetkaPC-posle-merge2-komit-1
+    vetkaPC-posle-merge2-komit-2
+}
 }
