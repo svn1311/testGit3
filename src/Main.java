@@ -4,8 +4,7 @@ public class Main {
 
     vetkaPC-komit-1
     vetkaPC-komit-2
-
     5
     6
-
+    vetkaPC-posle-merge-komit-1
 }
